@@ -1,0 +1,15 @@
+1. Create the file using cat
+
+$ cat > myfile.txt
+
+Now, just type whatever you want in the file:
+
+Hello World!
+
+CTRL-D to save and exit
+
+
+2. shortcut key to open terminal
+
+CTRL+ALT+T
+
